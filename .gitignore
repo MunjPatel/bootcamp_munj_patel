@@ -212,3 +212,9 @@ class_materials/
 # Ignore Python cache files
 __pycache__/
 *.pyc
+
+# Ignore data files
+./homework/homework2/data
+
+# Ignore env file
+.env
