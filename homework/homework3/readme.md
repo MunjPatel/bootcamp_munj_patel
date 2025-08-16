@@ -1,0 +1,1 @@
+## This directory contains all the required documents for homework2, including the src, notebooks, docs, and example .env file.
