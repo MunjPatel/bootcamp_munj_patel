@@ -1,0 +1,3 @@
+Scenario,RMSE,Δ from Baseline
+Baseline (Mean),0.01264071319158943,0.0
+Alternate (Median),0.012632293468034555,-8.41972355487483e-06
