@@ -61,5 +61,5 @@ The API should return a JSON response with the predicted close price.
 
 Below are images demonstrating the working API.
 
-<img src="homework/stage13_productization/reports/working_api_terminal.png" alt="API Screenshot 1">
-<img src="homework/stage13_productization/reports/working_api_json.png" alt="API Screenshot 2">
+<img src="reports/working_api_terminal.png" alt="API Screenshot 1">
+<img src="reports/working_api_json.png" alt="API Screenshot 2">
